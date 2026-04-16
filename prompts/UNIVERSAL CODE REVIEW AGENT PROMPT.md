@@ -1,3 +1,4 @@
+```md
 ==================== CONFIG ====================
 
 FEATURE_BRANCH: <feature_name>
@@ -249,3 +250,5 @@ Explain clearly.
 - If something is “working but badly designed” → MUST call it out
 
 ================================================
+
+```
